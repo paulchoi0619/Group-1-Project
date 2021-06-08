@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+  }
+  em {
+    color: blue;
+  }
+  strong {
+    color: red;
+  }
+  h1{
+    text-align: center;
+  }
+  div{
+    text-align: center;
+  }
+ 
+  .image{
+    
+    margin-left: auto;
+    margin-right: auto;
+  }
